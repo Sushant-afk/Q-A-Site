@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.header
+{
+    background-color: rgb(48, 47, 47);
+    color: white;
+    padding: 10px;
+    height: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+.nav-container
+{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.navigation-link
+{
+    margin-left: auto;
+}
+.brand-icon
+{
+    font-size: 30px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+ul li
+{
+    display: inline;
+    margin-left: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: white; 
+}
+a{color: white; text-decoration: none;}
